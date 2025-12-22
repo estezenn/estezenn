@@ -1,4 +1,4 @@
-<h1 align="center">HI IM NISA</h1>
+<h1 align="center">HI I'M NISA</h1>
 <p align="center">
 Computer Engineering student with a strong interest in software development, game programming, and systems-level programming.
 </p>
