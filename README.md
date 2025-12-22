@@ -9,7 +9,7 @@ Computer Engineering student with a strong interest in software development, gam
 
 ---
 
-###💻 About Me
+### 💻 About Me
 
 🎓 Computer Engineering student, currently preparing for advanced coursework (OOP, Data Structures, Internet Programming, Digital Design)
 
@@ -23,7 +23,7 @@ Computer Engineering student with a strong interest in software development, gam
 
 ---
 
-###⚙️ Tech Stack
+### ⚙️ Tech Stack
 
 💻 Programming Languages
 C · C++ · Python · JavaScript · HTML · CSS
@@ -41,7 +41,7 @@ Raylib · Git · Linux · VS Code · ModelSim · Arduino · GitHub
 
 ---
 
-###📫 Let’s Connect
+### 📫 Let’s Connect
 
 📩 Email: efsinazenn@gmail.com
 💼 LinkedIn: 
