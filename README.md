@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">HI IM NISA</h1>
+<p align="center">
+Computer Engineering student with a strong interest in software development, game programming, and systems-level programming.
+</p>
 
-<!--
-**estezenn/estezenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student
+📍 Çukurova University
+💡 Focused on building solid fundamentals in data structures, algorithms, and low-level programming
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###💻 About Me
+
+🎓 Computer Engineering student, currently preparing for advanced coursework (OOP, Data Structures, Internet Programming, Digital Design)
+
+🎮 Actively developing C-based games using Raylib (AA-style game projects)
+
+⚙️ Hands-on experience with C, C++, Python, and low-level programming concepts
+
+🔬 Interested in game development, systems programming, and embedded/software-hardware interaction
+
+🌱 Continuously improving through personal projects, coursework, and self-study
+
+---
+
+###⚙️ Tech Stack
+
+💻 Programming Languages
+C · C++ · Python · JavaScript · HTML · CSS
+
+🛠 Tools & Technologies
+Raylib · Git · Linux · VS Code · ModelSim · Arduino · GitHub
+
+🏗 Projects & Interests
+
+🎯 AA-style Game (Raylib, C) – collision logic, animations, zoom effects, infinite level structure
+
+🧠 Data Structures & Algorithms – stacks, queues, trees, heaps, pointers
+
+🌐 Web Projects – basic frontend projects (HTML/CSS/JS)
+
+---
+
+###📫 Let’s Connect
+
+📩 Email: efsinazenn@gmail.com
+💼 LinkedIn: 
+
+📊 GitHub Stats
+📊 Most Used Languages
