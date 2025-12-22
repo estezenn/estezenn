@@ -3,9 +3,9 @@
 Computer Engineering student with a strong interest in software development, game programming, and systems-level programming.
 </p>
 
-🎓 Computer Engineering student
-📍 Çukurova University
-💡 Focused on building solid fundamentals in data structures, algorithms, and low-level programming
+🎓 Computer Engineering student<br>
+📍 Çukurova University<br>
+💡 Focused on building solid fundamentals in data structures, algorithms, and low-level programming<br>
 
 ---
 
