@@ -43,7 +43,4 @@ Raylib · Git · Linux · VS Code · ModelSim · Arduino · GitHub
 
 ### 📫 Let’s Connect
 
-📩 Email: snisa.korkmaz00@gmail.com 
-
-📊 GitHub Stats
-📊 Most Used Languages
+📩 Email: snisa.korkmaz00@gmail.com
